@@ -1,6 +1,8 @@
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Suresh+Mewada;MCA+Student+@+NIT+Raipur;Web+Developer+%7C+MERN+Stack;Open+Source+%7C+DSA+Enthusiast)](https://git.io/typing-svg)
 
+<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
 ---
 
 ## 👨‍💻 About Me
